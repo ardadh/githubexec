@@ -4,3 +4,4 @@ b = float(input("enter b`s value"))
 sum = a / b
 
 print("Summary:", sum)
+print("selamunaleykum arda duldul")
